@@ -7,7 +7,7 @@
 либо задать на старте выполнения алгоритма. */
 
 
-string[] array1 = new string[4] {"newyear", "2023", "wow", ":)"};
+string[] array1 = new string[6] {"happy", "new", "year", "20", "23", ":)"};
 string[] array2 = new string[array1.Length];
 void SecondArrayWithIF(string[] array1, string[] array2)
 {
